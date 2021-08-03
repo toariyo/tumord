@@ -1,2 +1,4 @@
 # tumord
-Simple computational method, utilizing KNN and PCA, for tumor detection in ultra-low single-cell DNA sequencing data
+This is a simple computational method, utilizing KNN and PCA, for tumor detection in ultra-low single-cell DNA sequencing data that was created over the span of a summer internship with the National Institutes of Health and the University of Illinois Urbana-Champaign. 
+
+Patient single-cell DNA sequencing data was provided by Simone Zacarria: https://github.com/raphael-group/chisel-data. Additional help and assistance was provided by mentors Mohammed El-Kebir and Leah Weber. 
