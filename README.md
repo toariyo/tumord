@@ -1,4 +1,5 @@
 # TumorD
 This is a simple computational method, utilizing Pandas, SciKit-Learn, and several data science libraries to perform Principal Component Analysis and a machine learning algorithm, specifically K-Nearest Neighbors, for tumor cell detection in ultra-low single-cell DNA sequencing data and further analysis that was created during a summer research internship with the National Institutes of Health and the University of Illinois Urbana-Champaign. The following project was completed on a jupyter notebook. 
+The "KNN" folder contains Patient S0 and Patient S1 single-cell sequencing data analysis utilizing the K-Nearest-Neighbors algorithm and other data science libraries. The PCAanalysis folder contains intensive analysis of Patient S0 and Patient S1, including doublets, sections, and tumor cells, utilizing Principal Component Analysis and other data science libraries. 
 
 Patient single-cell DNA sequencing data was provided by Simone Zacarria from CHISEL: https://github.com/raphael-group/chisel-data. Additional help and assistance was provided by mentors Mohammed El-Kebir and Leah Weber. 
